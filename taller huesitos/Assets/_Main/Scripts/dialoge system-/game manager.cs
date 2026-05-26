@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class gamemanager : MonoBehaviour
 {
-    public string TextScene
+    public string TextScene;
     // Start is called before the first frame update
     void update()
     {
